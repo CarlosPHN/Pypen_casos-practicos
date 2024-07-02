@@ -1,0 +1,89 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: time (+) 
+Data: Time: 4055.7142857142853ms 
+
+Measurement: Measurement 1
+Reason: graphicsCard (-) 
+Data: GC: 42.6920156774916w 
+
+Measurement: Measurement 4
+Reason: time (+) 
+Data: Time: 4005.7857142857147ms 
+
+Measurement: Measurement 7
+Reason: time (-) 
+Data: Time: 4539.0ms 
+
+Measurement: Measurement 8
+Reason: time (-) 
+Data: Time: 4535.5ms 
+
+Measurement: Measurement 16
+Reason: time (+) 
+Data: Time: 4006.2857142857147ms 
+
+Measurement: Measurement 17
+Reason: time (+) 
+Data: Time: 5069.857142857143ms 
+
+Measurement: Measurement 19
+Reason: time (-) 
+Data: Time: 4534.0ms 
+
+Measurement: Measurement 20
+Reason: time (-) 
+Data: Time: 4556.666666666666ms 
+
+Measurement: Measurement 23
+Reason: time (+) 
+Data: Time: 4270.2ms 
+
+Measurement: Measurement 24
+Reason: time (+) 
+Data: Time: 5071.571428571429ms 
+
+Measurement: Measurement 26
+Reason: time (+) dut (-) 
+Data: Time: 4009.071428571429ms DUT: 221.35042857142858w 
+
+Outliers in Measurements
+Measurement: Measurement 2
+
+Measurement: Measurement 3
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+Time(ms):1628.0, DUT(w):20.011917919816895
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 18
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 25
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+Time(ms):1078.0, DUT(w):-16.72850331067471
+
+

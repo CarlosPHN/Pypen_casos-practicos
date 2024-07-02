@@ -1,0 +1,80 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: dut (+) 
+Data: DUT: 441.4203125w 
+
+Measurement: Measurement 1
+Reason: dut (+) 
+Data: DUT: 413.09484615384616w 
+
+Measurement: Measurement 2
+Reason: dut (+) 
+Data: DUT: 402.7162307692308w 
+
+Measurement: Measurement 3
+Reason: dut (+) 
+Data: DUT: 432.5930625w 
+
+Measurement: Measurement 4
+Reason: dut (+) 
+Data: DUT: 393.9476153846154w 
+
+Measurement: Measurement 28
+Reason: process (-) 
+Data: P: 52.827166064981945w 
+
+Measurement: Measurement 29
+Reason: process (-) 
+Data: P: 52.14253494874185w 
+
+Outliers in Measurements
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+Time(ms):1070.0, DUT(w):-8.584401826255714
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+Time(ms):1070.0, DUT(w):-10.895336601859825
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+Time(ms):1073.0, DUT(w):-10.589747938699915
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 23
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+

@@ -1,0 +1,86 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: graphicsCard (-) 
+Data: GC: 30.759381659388648w 
+
+Measurement: Measurement 1
+Reason: graphicsCard (-) 
+Data: GC: 31.06125815753529w 
+
+Measurement: Measurement 2
+Reason: graphicsCard (-) 
+Data: GC: 31.122849453854677w 
+
+Measurement: Measurement 3
+Reason: graphicsCard (-) 
+Data: GC: 31.26361921327268w 
+
+Measurement: Measurement 10
+Reason: hdd (+) graphicsCard (+) 
+Data: HDD: 20.68705082508255w GC: 40.660930693069325w 
+
+Measurement: Measurement 11
+Reason: hdd (+) graphicsCard (+) process (+) 
+Data: HDD: 28.021227316802996w GC: 47.36324837235091w P: 79.08855381631801w 
+
+Outliers in Measurements
+Measurement: Measurement 4
+
+Measurement: Measurement 5
+Time(ms):2135.0, DUT(w):-5.907251437235402
+Time(ms):2665.0, DUT(w):-14.4803455783439
+Time(ms):3198.0, DUT(w):-17.119235092638277
+Time(ms):3728.0, DUT(w):14.270509529642908
+Time(ms):4262.0, DUT(w):27.79727256021637
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+Time(ms):1603.0, DUT(w):-7.0032036448062485
+Time(ms):2134.0, DUT(w):-7.4582944130865485
+Time(ms):2668.0, DUT(w):-6.885304482039331
+Time(ms):3199.0, DUT(w):-13.0520201905628
+Time(ms):3733.0, DUT(w):11.730973318856456
+Time(ms):4264.0, DUT(w):26.496074967970998
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 23
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+

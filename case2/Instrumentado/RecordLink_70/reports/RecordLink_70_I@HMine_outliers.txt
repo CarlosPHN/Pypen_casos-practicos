@@ -1,0 +1,75 @@
+Measurements deleted
+Measurement: Measurement 7
+Reason: time (+) hdd (-) 
+Data: Time: 3201.272727272727ms HDD: 22.687746870653683w 
+
+Measurement: Measurement 9
+Reason: hdd (-) 
+Data: HDD: 22.685923295454543w 
+
+Measurement: Measurement 13
+Reason: time (+) 
+Data: Time: 3208.727272727273ms 
+
+Measurement: Measurement 18
+Reason: time (+) 
+Data: Time: 3217.545454545455ms 
+
+Measurement: Measurement 19
+Reason: hdd (-) 
+Data: HDD: 22.6921104815864w 
+
+Measurement: Measurement 23
+Reason: hdd (+) 
+Data: HDD: 22.815077793493636w 
+
+Outliers in Measurements
+Measurement: Measurement 0
+
+Measurement: Measurement 1
+
+Measurement: Measurement 2
+
+Measurement: Measurement 3
+
+Measurement: Measurement 4
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 8
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+

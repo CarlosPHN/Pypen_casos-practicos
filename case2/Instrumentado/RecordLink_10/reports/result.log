@@ -1,0 +1,251 @@
+6/6/2024 11:0:208 RecordLink_10_I@Apriori: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@Apriori: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@Apriori: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:2229.0, 168538.0, 168538.0, 168538.0, 2229.0, 2229.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:2136.0, 159100.0, 159100.0, 159100.0, 2136.0, 2136.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Apriori: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:1945.0, 144922.0, 144922.0, 144922.0, 1945.0, 1945.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Aprioriexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@AprioriTID: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@AprioriTID: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@AprioriTID: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:2750.0, 207696.0, 207696.0, 207696.0, 2750.0, 2750.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:2603.0, 194102.0, 194102.0, 194102.0, 2603.0, 2603.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@AprioriTID: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:2054.0, 153203.0, 153203.0, 153203.0, 2054.0, 2054.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@AprioriTIDexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@dEclat: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@dEclat: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@dEclat: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:330.0, 23904.0, 23904.0, 23904.0, 330.0, 330.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:330.0, 21689.0, 21689.0, 21689.0, 330.0, 330.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@dEclat: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:275.0, 18078.0, 18078.0, 18078.0, 275.0, 275.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@dEclatexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@DFIN: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@DFIN: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@DFIN: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:240.0, 17662.0, 17662.0, 17662.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:238.0, 15296.0, 15296.0, 15296.0, 238.0, 238.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@DFIN: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:208.0, 13397.0, 13397.0, 13397.0, 208.0, 208.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@DFINexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@Eclat: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@Eclat: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@Eclat: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:1755.0, 132517.0, 132517.0, 132517.0, 1755.0, 1755.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:1722.0, 127771.0, 127771.0, 127771.0, 1722.0, 1722.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Eclat: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:1722.0, 127771.0, 127771.0, 127771.0, 1722.0, 1722.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Eclatexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@FIN: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@FIN: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@FIN: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:240.0, 17659.0, 17659.0, 17659.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:240.0, 15492.0, 15492.0, 15492.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@FIN: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:184.0, 11881.0, 11881.0, 11881.0, 184.0, 184.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@FINexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@FPGrowth: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@FPGrowth: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@FPGrowth: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:270.0, 19278.0, 19278.0, 19278.0, 270.0, 270.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:270.0, 17119.0, 17119.0, 17119.0, 270.0, 270.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@FPGrowth: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:243.0, 15411.0, 15411.0, 15411.0, 243.0, 243.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@FPGrowthexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@HMine: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@HMine: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@HMine: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:1021.0, 76504.0, 76504.0, 76504.0, 1021.0, 1021.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:961.0, 69722.0, 69722.0, 69722.0, 961.0, 961.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@HMine: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:894.0, 64867.0, 64867.0, 64867.0, 894.0, 894.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@HMineexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@LCMFreq: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@LCMFreq: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@LCMFreq: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:1720.0, 129622.0, 129622.0, 129622.0, 1720.0, 1720.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:1644.0, 121641.0, 121641.0, 121641.0, 1644.0, 1644.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@LCMFreq: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:1589.0, 117538.0, 117538.0, 117538.0, 1589.0, 1589.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@LCMFreqexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@NegFIN: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@NegFIN: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@NegFIN: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:270.0, 19377.0, 19377.0, 19377.0, 270.0, 270.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:270.0, 17282.0, 17282.0, 17282.0, 270.0, 270.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@NegFIN: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:243.0, 15551.0, 15551.0, 15551.0, 243.0, 243.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@NegFINexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:242.0, 17841.0, 17841.0, 17841.0, 242.0, 242.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:240.0, 15589.0, 15589.0, 15589.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:192.0, 12559.0, 12559.0, 12559.0, 192.0, 192.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePostexporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost+: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost+: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost+: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:240.0, 17518.0, 17518.0, 17518.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:240.0, 15425.0, 15425.0, 15425.0, 240.0, 240.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost+: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:200.0, 12860.0, 12860.0, 12860.0, 200.0, 200.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@PrePost+exporting report...
+
+6/6/2024 11:0:208 RecordLink_10_I@Relim: loading...
+
+6/6/2024 11:0:208 RecordLink_10_I@Relim: analicing...
+
+6/6/2024 11:0:208 RecordLink_10_I@Relim: clearing outliers...
+
+6/6/2024 11:0:208 - P1 Samples dirty:977.0, 73399.0, 73399.0, 73399.0, 977.0, 977.0
+
+
+6/6/2024 11:0:208 - P1 Samples without outliers:915.0, 66536.0, 66536.0, 66536.0, 915.0, 915.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Relim: clearing measurements...
+
+6/6/2024 11:0:208 - P2 Samples without discarded measurements:706.0, 51217.0, 51217.0, 51217.0, 706.0, 706.0
+
+
+6/6/2024 11:0:208 RecordLink_10_I@Relimexporting report...
+
+6/6/2024 11:0:208 exporting global report...
+
+6/6/2024 11:0:208 compressing...
+

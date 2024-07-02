@@ -1,0 +1,82 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: graphicsCard (+) 
+Data: GC: 27.32531870428422w 
+
+Measurement: Measurement 24
+Reason: hdd (-) 
+Data: HDD: 25.969168399168396w 
+
+Measurement: Measurement 25
+Reason: hdd (-) 
+Data: HDD: 25.667378531073446w 
+
+Measurement: Measurement 26
+Reason: hdd (-) 
+Data: HDD: 25.635959367945823w 
+
+Measurement: Measurement 27
+Reason: hdd (-) 
+Data: HDD: 25.547599093997732w 
+
+Measurement: Measurement 28
+Reason: time (+) hdd (-) process (+) dut (+) 
+Data: Time: 32509.808695652173ms HDD: 25.497819332566166w P: 38.07299309551208w DUT: 247.73935652173913w 
+
+Measurement: Measurement 29
+Reason: time (+) hdd (-) dut (+) 
+Data: Time: 33327.54237288138ms HDD: 25.351762856501235w DUT: 242.29919491525425w 
+
+Outliers in Measurements
+Measurement: Measurement 1
+
+Measurement: Measurement 2
+
+Measurement: Measurement 3
+Time(ms):1096.0, DUT(w):-23.935150241366188
+
+Measurement: Measurement 4
+Time(ms):1101.0, DUT(w):-29.1094073949524
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+Time(ms):1131.0, DUT(w):-21.667790442092524
+
+Measurement: Measurement 12
+Time(ms):1100.0, DUT(w):-24.087543883164557
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+Time(ms):1098.0, DUT(w):-27.107323223068406
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 23
+
+

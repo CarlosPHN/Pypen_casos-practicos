@@ -1,0 +1,86 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: process (+) 
+Data: P: 73.78973233082712w 
+
+Measurement: Measurement 1
+Reason: process (+) 
+Data: P: 65.77973027500153w 
+
+Measurement: Measurement 2
+Reason: process (+) 
+Data: P: 64.96905936533979w 
+
+Measurement: Measurement 3
+Reason: process (+) 
+Data: P: 64.38927808249579w 
+
+Measurement: Measurement 23
+Reason: dut (-) 
+Data: DUT: 346.5931900452489w 
+
+Measurement: Measurement 28
+Reason: time (-) process (-) dut (-) 
+Data: Time: 7270.818181818181ms P: 42.15355824315722w DUT: 280.0447272727273w 
+
+Measurement: Measurement 29
+Reason: time (-) process (-) dut (-) 
+Data: Time: 7253.454545454546ms P: 41.35052329291641w DUT: 270.49227272727273w 
+
+Outliers in Measurements
+Measurement: Measurement 4
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+Time(ms):6410.0, DUT(w):-5.870040294916251
+Time(ms):6945.0, DUT(w):8.782171176054064
+Time(ms):7476.0, DUT(w):20.018262251057948
+Time(ms):8011.0, DUT(w):19.243166718716168
+Time(ms):8544.0, DUT(w):29.594631818451802
+Time(ms):9079.0, DUT(w):-9.633193369746564
+Time(ms):9611.0, DUT(w):13.462082881603038
+Time(ms):10142.0, DUT(w):18.42727668467215
+Time(ms):10675.0, DUT(w):16.429743173240453
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+

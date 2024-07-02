@@ -1,0 +1,81 @@
+Measurements deleted
+Measurement: Measurement 1
+Reason: time (+) 
+Data: Time: 4000.6428571428573ms 
+
+Measurement: Measurement 2
+Reason: process (-) 
+Data: P: 52.302298603651984w 
+
+Measurement: Measurement 4
+Reason: process (-) 
+Data: P: 52.3465848452508w 
+
+Measurement: Measurement 6
+Reason: time (-) 
+Data: Time: 3731.307692307693ms 
+
+Measurement: Measurement 15
+Reason: time (-) 
+Data: Time: 3771.0ms 
+
+Measurement: Measurement 16
+Reason: time (+) 
+Data: Time: 4034.5ms 
+
+Measurement: Measurement 19
+Reason: time (-) 
+Data: Time: 3733.538461538462ms 
+
+Measurement: Measurement 22
+Reason: time (-) 
+Data: Time: 3736.461538461538ms 
+
+Measurement: Measurement 23
+Reason: time (+) 
+Data: Time: 4007.0ms 
+
+Outliers in Measurements
+Measurement: Measurement 0
+
+Measurement: Measurement 3
+
+Measurement: Measurement 5
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+

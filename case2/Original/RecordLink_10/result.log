@@ -1,0 +1,273 @@
+12/6/2024 11:26:687 RecordLink_10@Apriori: loading...
+
+12/6/2024 11:26:687 ERROR FileIn: 222,1577,21.45,8.48,16.901586,22.05,8.48,15.71,8.14,10.74,15.98,1.821.641.301.580.891.32
+
+12/6/2024 11:26:687 RecordLink_10@Apriori: analicing...
+
+12/6/2024 11:26:687 RecordLink_10@Apriori: clearing outliers...
+
+12/6/2024 11:26:687 - P1 Samples dirty:9745.0, 728120.0, 728120.0, 728120.0, 9745.0, 9745.0
+
+
+12/6/2024 11:26:687 - P1 Samples without outliers:9652.0, 718678.0, 718678.0, 718678.0, 9652.0, 9652.0
+
+
+12/6/2024 11:26:687 RecordLink_10@Apriori: clearing measurements...
+
+12/6/2024 11:38:38 RecordLink_10@Apriori: loading...
+
+12/6/2024 11:38:38 ERROR FileIn: 222,1577,21.45,8.48,16.901586,22.05,8.48,15.71,8.14,10.74,15.98,1.821.641.301.580.891.32
+
+12/6/2024 11:38:38 RecordLink_10@Apriori: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@Apriori: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:9745.0, 728120.0, 728120.0, 728120.0, 9745.0, 9745.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:9652.0, 718678.0, 718678.0, 718678.0, 9652.0, 9652.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Apriori: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:6854.0, 511831.0, 511831.0, 511831.0, 6854.0, 6854.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Aprioriexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@AprioriTID: loading...
+
+12/6/2024 11:38:38 RecordLink_10@AprioriTID: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@AprioriTID: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:12379.0, 927820.0, 927820.0, 927820.0, 12379.0, 12379.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:12156.0, 908640.0, 908640.0, 908640.0, 12156.0, 12156.0
+
+
+12/6/2024 11:38:38 RecordLink_10@AprioriTID: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:9943.0, 743589.0, 743589.0, 743589.0, 9943.0, 9943.0
+
+
+12/6/2024 11:38:38 RecordLink_10@AprioriTIDexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@dEclat: loading...
+
+12/6/2024 11:38:38 ERROR FileIn: 1549,10968,20.86,7.97,16.30,6.88,3.03,13.03,16.90,7.13,1.25,15.98,1.621.591.391.380.101.32
+
+12/6/2024 11:38:38 RecordLink_10@dEclat: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@dEclat: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:700.0, 52181.0, 52181.0, 52181.0, 700.0, 700.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:645.0, 46074.0, 46074.0, 46074.0, 645.0, 645.0
+
+
+12/6/2024 11:38:38 RecordLink_10@dEclat: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:484.0, 34623.0, 34623.0, 34623.0, 484.0, 484.0
+
+
+12/6/2024 11:38:38 RecordLink_10@dEclatexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@DFIN: loading...
+
+12/6/2024 11:38:38 RecordLink_10@DFIN: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@DFIN: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:904.0, 67432.0, 67432.0, 67432.0, 904.0, 904.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:862.0, 62339.0, 62339.0, 62339.0, 862.0, 862.0
+
+
+12/6/2024 11:38:38 RecordLink_10@DFIN: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:351.0, 23916.0, 23916.0, 23916.0, 351.0, 351.0
+
+
+12/6/2024 11:38:38 RecordLink_10@DFINexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@Eclat: loading...
+
+12/6/2024 11:38:38 RecordLink_10@Eclat: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@Eclat: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:7112.0, 536971.0, 536971.0, 536971.0, 7112.0, 7112.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:7089.0, 533420.0, 533420.0, 533420.0, 7089.0, 7089.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Eclat: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:7062.0, 531582.0, 531582.0, 531582.0, 7062.0, 7062.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Eclatexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@FIN: loading...
+
+12/6/2024 11:38:38 RecordLink_10@FIN: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@FIN: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:422.0, 30718.0, 30718.0, 30718.0, 422.0, 422.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:386.0, 26277.0, 26277.0, 26277.0, 386.0, 386.0
+
+
+12/6/2024 11:38:38 RecordLink_10@FIN: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:372.0, 25313.0, 25313.0, 25313.0, 372.0, 372.0
+
+
+12/6/2024 11:38:38 RecordLink_10@FINexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@FPGrowth: loading...
+
+12/6/2024 11:38:38 RecordLink_10@FPGrowth: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@FPGrowth: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:698.0, 51039.0, 51039.0, 51039.0, 698.0, 698.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:683.0, 48221.0, 48221.0, 48221.0, 683.0, 683.0
+
+
+12/6/2024 11:38:38 RecordLink_10@FPGrowth: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:364.0, 24582.0, 24582.0, 24582.0, 364.0, 364.0
+
+
+12/6/2024 11:38:38 RecordLink_10@FPGrowthexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@HMine: loading...
+
+12/6/2024 11:38:38 ERROR FileIn: 10446,74402.120.451.46
+
+12/6/2024 11:38:38 RecordLink_10@HMine: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@HMine: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:4381.0, 331084.0, 331084.0, 331084.0, 4381.0, 4381.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:4321.0, 324848.0, 324848.0, 324848.0, 4321.0, 4321.0
+
+
+12/6/2024 11:38:38 RecordLink_10@HMine: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:3584.0, 269289.0, 269289.0, 269289.0, 3584.0, 3584.0
+
+
+12/6/2024 11:38:38 RecordLink_10@HMineexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@LCMFreq: loading...
+
+12/6/2024 11:38:38 RecordLink_10@LCMFreq: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@LCMFreq: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:6393.0, 483453.0, 483453.0, 483453.0, 6393.0, 6393.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:6337.0, 477573.0, 477573.0, 477573.0, 6337.0, 6337.0
+
+
+12/6/2024 11:38:38 RecordLink_10@LCMFreq: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:6309.0, 475680.0, 475680.0, 475680.0, 6309.0, 6309.0
+
+
+12/6/2024 11:38:38 RecordLink_10@LCMFreqexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@NegFIN: loading...
+
+12/6/2024 11:38:38 RecordLink_10@NegFIN: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@NegFIN: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:420.0, 30070.0, 30070.0, 30070.0, 420.0, 420.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:411.0, 27946.0, 27946.0, 27946.0, 411.0, 411.0
+
+
+12/6/2024 11:38:38 RecordLink_10@NegFIN: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:308.0, 20970.0, 20970.0, 20970.0, 308.0, 308.0
+
+
+12/6/2024 11:38:38 RecordLink_10@NegFINexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost: loading...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:420.0, 30367.0, 30367.0, 30367.0, 420.0, 420.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:405.0, 27788.0, 27788.0, 27788.0, 405.0, 405.0
+
+
+12/6/2024 11:38:38 RecordLink_10@PrePost: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:392.0, 26907.0, 26907.0, 26907.0, 392.0, 392.0
+
+
+12/6/2024 11:38:38 RecordLink_10@PrePostexporting report...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost+: loading...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost+: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@PrePost+: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:629.0, 46384.0, 46384.0, 46384.0, 629.0, 629.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:606.0, 43182.0, 43182.0, 43182.0, 606.0, 606.0
+
+
+12/6/2024 11:38:38 RecordLink_10@PrePost+: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:306.0, 21013.0, 21013.0, 21013.0, 306.0, 306.0
+
+
+12/6/2024 11:38:38 RecordLink_10@PrePost+exporting report...
+
+12/6/2024 11:38:38 RecordLink_10@Relim: loading...
+
+12/6/2024 11:38:38 RecordLink_10@Relim: analicing...
+
+12/6/2024 11:38:38 RecordLink_10@Relim: clearing outliers...
+
+12/6/2024 11:38:38 - P1 Samples dirty:3341.0, 254352.0, 254352.0, 254352.0, 3341.0, 3341.0
+
+
+12/6/2024 11:38:38 - P1 Samples without outliers:3285.0, 248704.0, 248704.0, 248704.0, 3285.0, 3285.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Relim: clearing measurements...
+
+12/6/2024 11:38:38 - P2 Samples without discarded measurements:2818.0, 213357.0, 213357.0, 213357.0, 2818.0, 2818.0
+
+
+12/6/2024 11:38:38 RecordLink_10@Relimexporting report...
+
+12/6/2024 11:38:38 exporting global report...
+
+12/6/2024 11:38:38 compressing...
+

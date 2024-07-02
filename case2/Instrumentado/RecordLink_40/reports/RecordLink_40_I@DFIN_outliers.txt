@@ -1,0 +1,91 @@
+Measurements deleted
+Measurement: Measurement 1
+Reason: dut (+) 
+Data: DUT: 256.77725w 
+
+Measurement: Measurement 2
+Reason: time (+) 
+Data: Time: 2414.5ms 
+
+Measurement: Measurement 3
+Reason: time (+) 
+Data: Time: 2413.875ms 
+
+Measurement: Measurement 5
+Reason: time (-) dut (+) 
+Data: Time: 2665.4285714285716ms DUT: 259.35814285714287w 
+
+Measurement: Measurement 12
+Reason: time (+) 
+Data: Time: 2427.5ms 
+
+Measurement: Measurement 20
+Reason: time (+) 
+Data: Time: 2410.25ms 
+
+Measurement: Measurement 22
+Reason: hdd (+) graphicsCard (+) 
+Data: HDD: 39.480182555780935w GC: 58.76101419878296w 
+
+Measurement: Measurement 23
+Reason: hdd (+) graphicsCard (+) process (+) 
+Data: HDD: 40.22043121149897w GC: 59.514209445585216w P: 63.300533880903494w 
+
+Measurement: Measurement 24
+Reason: hdd (+) graphicsCard (+) process (+) 
+Data: HDD: 42.169489795918366w GC: 61.274530612244895w P: 65.8893469387755w 
+
+Measurement: Measurement 25
+Reason: graphicsCard (-) 
+Data: GC: 57.12305154639175w 
+
+Measurement: Measurement 26
+Reason: hdd (-) graphicsCard (-) process (-) 
+Data: HDD: 36.21735772357724w GC: 55.759959349593494w P: 57.82174796747967w 
+
+Measurement: Measurement 27
+Reason: hdd (-) graphicsCard (-) process (-) 
+Data: HDD: 35.6786032388664w GC: 55.40720647773279w P: 57.1751012145749w 
+
+Measurement: Measurement 28
+Reason: hdd (-) graphicsCard (-) process (-) 
+Data: HDD: 35.67806981519507w GC: 55.427946611909654w P: 57.04673511293635w 
+
+Measurement: Measurement 29
+Reason: time (+) hdd (-) graphicsCard (-) process (-) 
+Data: Time: 2416.0ms HDD: 35.86971486761711w GC: 55.514582484725054w P: 57.17150712830957w 
+
+Outliers in Measurements
+Measurement: Measurement 0
+
+Measurement: Measurement 4
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 21
+
+

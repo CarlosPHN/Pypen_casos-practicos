@@ -1,0 +1,75 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: process (+) dut (+) 
+Data: P: 43.84165200391007w DUT: 261.9125w 
+
+Measurement: Measurement 5
+Reason: time (-) 
+Data: Time: 7729.458333333333ms 
+
+Measurement: Measurement 7
+Reason: time (-) 
+Data: Time: 7199.954545454546ms 
+
+Measurement: Measurement 13
+Reason: graphicsCard (-) 
+Data: GC: 40.461485385721126w 
+
+Measurement: Measurement 23
+Reason: time (-) 
+Data: Time: 7196.636363636364ms 
+
+Measurement: Measurement 26
+Reason: hdd (+) 
+Data: HDD: 22.26965121834687w 
+
+Outliers in Measurements
+Measurement: Measurement 1
+
+Measurement: Measurement 2
+
+Measurement: Measurement 3
+
+Measurement: Measurement 4
+
+Measurement: Measurement 6
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+

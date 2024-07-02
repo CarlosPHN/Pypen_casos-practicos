@@ -1,0 +1,255 @@
+6/6/2024 11:9:766 USCensus_70_I@Apriori: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@Apriori: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@Apriori: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:600.0, 44592.0, 44592.0, 44592.0, 600.0, 600.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:541.0, 37741.0, 37741.0, 37741.0, 541.0, 541.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Apriori: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:360.0, 25115.0, 25115.0, 25115.0, 360.0, 360.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Aprioriexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@AprioriTID: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@AprioriTID: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@AprioriTID: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:849.0, 63467.0, 63467.0, 63467.0, 849.0, 849.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:798.0, 57257.0, 57257.0, 57257.0, 798.0, 798.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@AprioriTID: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:657.0, 47145.0, 47145.0, 47145.0, 657.0, 657.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@AprioriTIDexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@dEclat: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@dEclat: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@dEclat: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:864.0, 64560.0, 64560.0, 64560.0, 864.0, 864.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:862.0, 62131.0, 62131.0, 62131.0, 862.0, 862.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@dEclat: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:747.0, 53875.0, 53875.0, 53875.0, 747.0, 747.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@dEclatexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@DFIN: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@DFIN: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@DFIN: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:3082.0, 233086.0, 233086.0, 233086.0, 3082.0, 3082.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:2989.0, 223686.0, 223686.0, 223686.0, 2989.0, 2989.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@DFIN: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:2677.0, 200297.0, 200297.0, 200297.0, 2677.0, 2677.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@DFINexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@Eclat: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@Eclat: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@Eclat: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:950.0, 71461.0, 71461.0, 71461.0, 950.0, 950.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:925.0, 67344.0, 67344.0, 67344.0, 925.0, 925.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Eclat: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:892.0, 64976.0, 64976.0, 64976.0, 892.0, 892.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Eclatexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@FIN: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@FIN: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@FIN: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:902.0, 67529.0, 67529.0, 67529.0, 902.0, 902.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:842.0, 60742.0, 60742.0, 60742.0, 842.0, 842.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@FIN: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:688.0, 49632.0, 49632.0, 49632.0, 688.0, 688.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@FINexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@FPGrowth: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@FPGrowth: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@FPGrowth: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:420.0, 31794.0, 31794.0, 31794.0, 420.0, 420.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:399.0, 28027.0, 28027.0, 28027.0, 399.0, 399.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@FPGrowth: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:346.0, 24302.0, 24302.0, 24302.0, 346.0, 346.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@FPGrowthexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@HMine: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@HMine: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@HMine: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:722.0, 54135.0, 54135.0, 54135.0, 722.0, 722.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:722.0, 51992.0, 51992.0, 51992.0, 722.0, 722.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@HMine: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:576.0, 41585.0, 41585.0, 41585.0, 576.0, 576.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@HMineexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@LCMFreq: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@LCMFreq: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@LCMFreq: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:865.0, 64926.0, 64926.0, 64926.0, 865.0, 865.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:834.0, 60416.0, 60416.0, 60416.0, 834.0, 834.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@LCMFreq: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:699.0, 50535.0, 50535.0, 50535.0, 699.0, 699.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@LCMFreqexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@NegFIN: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@NegFIN: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@NegFIN: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:462.0, 33927.0, 33927.0, 33927.0, 462.0, 462.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:432.0, 29492.0, 29492.0, 29492.0, 432.0, 432.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@NegFIN: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:379.0, 25808.0, 25808.0, 25808.0, 379.0, 379.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@NegFINexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:449.0, 33568.0, 33568.0, 33568.0, 449.0, 449.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:395.0, 27317.0, 27317.0, 27317.0, 395.0, 395.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:351.0, 24277.0, 24277.0, 24277.0, 351.0, 351.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@PrePostexporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost+: loading...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost+: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost+: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:443.0, 32913.0, 32913.0, 32913.0, 443.0, 443.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:394.0, 27041.0, 27041.0, 27041.0, 394.0, 394.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost+: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:234.0, 16167.0, 16167.0, 16167.0, 234.0, 234.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@PrePost+exporting report...
+
+6/6/2024 11:9:766 USCensus_70_I@Relim: loading...
+
+6/6/2024 11:9:766 ERROR FileIn: 32642,231467,14.93,673
+
+6/6/2024 11:9:766 ERROR FileIn: 10003,70325,15.52,7.22,38.24,3.35,1.14.34,7.47,36.46,3.35,1.85,32.58,1.181.453.010.650.152.69
+
+6/6/2024 11:9:766 USCensus_70_I@Relim: analicing...
+
+6/6/2024 11:9:766 USCensus_70_I@Relim: clearing outliers...
+
+6/6/2024 11:9:766 - P1 Samples dirty:13937.0, 1051380.0, 1051380.0, 1051380.0, 13937.0, 13937.0
+
+
+6/6/2024 11:9:766 - P1 Samples without outliers:13877.0, 1044598.0, 1044598.0, 1044598.0, 13877.0, 13877.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Relim: clearing measurements...
+
+6/6/2024 11:9:766 - P2 Samples without discarded measurements:12921.0, 972879.0, 972879.0, 972879.0, 12921.0, 12921.0
+
+
+6/6/2024 11:9:766 USCensus_70_I@Relimexporting report...
+
+6/6/2024 11:9:766 exporting global report...
+
+6/6/2024 11:9:766 compressing...
+

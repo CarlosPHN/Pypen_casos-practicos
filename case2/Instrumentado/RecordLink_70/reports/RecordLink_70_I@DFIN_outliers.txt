@@ -1,0 +1,73 @@
+Measurements deleted
+Measurement: Measurement 10
+Reason: time (+) 
+Data: Time: 2413.375ms 
+
+Measurement: Measurement 17
+Reason: time (-) process (+) 
+Data: Time: 2670.285714285714ms P: 36.7250608272506w 
+
+Measurement: Measurement 22
+Reason: graphicsCard (+) 
+Data: GC: 44.24528806584362w 
+
+Measurement: Measurement 23
+Reason: time (+) 
+Data: Time: 2417.625ms 
+
+Measurement: Measurement 28
+Reason: time (+) 
+Data: Time: 2410.625ms 
+
+Outliers in Measurements
+Measurement: Measurement 0
+
+Measurement: Measurement 1
+
+Measurement: Measurement 2
+
+Measurement: Measurement 3
+
+Measurement: Measurement 4
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 11
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+Measurement: Measurement 29
+
+

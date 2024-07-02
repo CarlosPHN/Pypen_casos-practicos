@@ -1,0 +1,77 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: hdd (-) graphicsCard (-) 
+Data: HDD: 16.699012837538735w GC: 37.30917662682603w 
+
+Measurement: Measurement 1
+Reason: graphicsCard (-) 
+Data: GC: 37.447191169563176w 
+
+Measurement: Measurement 2
+Reason: graphicsCard (-) 
+Data: GC: 37.523224785165084w 
+
+Measurement: Measurement 3
+Reason: hdd (-) graphicsCard (-) 
+Data: HDD: 16.8113504968383w GC: 37.509846431797655w 
+
+Measurement: Measurement 4
+Reason: hdd (-) graphicsCard (-) 
+Data: HDD: 16.815222579164754w GC: 37.45687930243231w 
+
+Measurement: Measurement 5
+Reason: graphicsCard (-) 
+Data: GC: 37.532504409171075w 
+
+Measurement: Measurement 11
+Reason: time (-) 
+Data: Time: 9867.75ms 
+
+Outliers in Measurements
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+
+Measurement: Measurement 22
+
+Measurement: Measurement 23
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+

@@ -1,0 +1,75 @@
+Measurements deleted
+Measurement: Measurement 0
+Reason: graphicsCard (-) 
+Data: GC: 41.755855421686746w 
+
+Measurement: Measurement 1
+Reason: graphicsCard (-) 
+Data: GC: 41.68677517802645w 
+
+Measurement: Measurement 2
+Reason: graphicsCard (-) 
+Data: GC: 41.79653594771242w 
+
+Measurement: Measurement 3
+Reason: graphicsCard (-) 
+Data: GC: 41.79825955734407w 
+
+Outliers in Measurements
+Measurement: Measurement 4
+
+Measurement: Measurement 5
+
+Measurement: Measurement 6
+
+Measurement: Measurement 7
+
+Measurement: Measurement 8
+
+Measurement: Measurement 9
+
+Measurement: Measurement 10
+
+Measurement: Measurement 11
+Time(ms):1071.0, DUT(w):-23.483588437164457
+
+Measurement: Measurement 12
+
+Measurement: Measurement 13
+
+Measurement: Measurement 14
+
+Measurement: Measurement 15
+
+Measurement: Measurement 16
+
+Measurement: Measurement 17
+
+Measurement: Measurement 18
+
+Measurement: Measurement 19
+
+Measurement: Measurement 20
+
+Measurement: Measurement 21
+Time(ms):1098.0, DUT(w):-25.328060255904404
+
+Measurement: Measurement 22
+
+Measurement: Measurement 23
+Time(ms):1071.0, DUT(w):-24.508235212849556
+
+Measurement: Measurement 24
+
+Measurement: Measurement 25
+
+Measurement: Measurement 26
+Time(ms):1072.0, DUT(w):-22.413444791943675
+
+Measurement: Measurement 27
+
+Measurement: Measurement 28
+
+Measurement: Measurement 29
+
+
